@@ -17,7 +17,7 @@
 <a href="https://twitter.com/iamabhi786n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamabhi786n" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhishek-nimavat-082219233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-nimavat-082219233" height="30" width="40" /></a>
 <a href="https://fb.com/abhishek.nimavat.712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhishek.nimavat.712" height="30" width="40" /></a>
-<a href="https://instagram.com/thebeaseabhi18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamabhi3740" height="30" width="40" /></a>
+<a href="https://instagram.com/iamabhi3740" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamabhi3740" height="30" width="40" /></a>
 <a href="https://discord.gg/Abhishek18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Abhishek18" height="30" width="40" /></a>
 </p>
 
