@@ -21,7 +21,7 @@
   <a href="https://fb.com/abhishek.nimavat.712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhishek.nimavat.712" height="30" width="40" /></a>
   <a href="https://instagram.com/iamabhi3740" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamabhi3740" height="30" width="40" /></a>
   <a href="https://discord.gg/Abhishek18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Abhishek18" height="30" width="40" /></a>
-  <a href="https://your-portfolio-link.com" target="blank"><img align="center" src="https://abhishekportfolio.freewebhostmost.com/?logo=web&logoColor=white&style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://abhishekportfolio.freewebhostmost.com/" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-000000?logo=web&logoColor=white&style=for-the-badge" alt="Portfolio" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
