@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamabhi786n" target="blank"><img src="https://img.shields.io/twitter/follow/iamabhi786n?logo=twitter&style=for-the-badge" alt="iamabhi786n" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot and Postgresql**
+- 🌱 I’m currently exploring **Spring Boot and React**
 
 - 📫 How to reach me **abhisheknimavat08@gmail.com**
 
