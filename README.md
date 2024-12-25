@@ -1,6 +1,6 @@
 [![MasterHead](https://res.cloudinary.com/jerrick/image/upload/v1548358184/i8uj1f1dquu5dc6rzkgs.gif)]
 
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamabhi786n" target="blank"><img src="https://img.shields.io/twitter/follow/iamabhi786n?logo=twitter&style=for-the-badge" alt="iamabhi786n" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot and Postgresql**
+- 🌱 I’m currently exploring **Spring Boot and React**
 
 - 📫 How to reach me **abhisheknimavat08@gmail.com**
 
